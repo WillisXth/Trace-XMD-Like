@@ -393,7 +393,7 @@ setTimeout(() => {
           const _0xb08499 = _0x1b27a1.format("DD/MM/YYYY");
           const _0x55f399 = _0x1b27a1.format("HH:mm:ss");
           await _0x252f2e.sendMessage(_0x16dfec, {
-            'text': "*⚡FANTI_DELETE⚡*\n\n*Date of Deletion:* " + _0xb08499 + "\n*Time of Deletion:* " + _0x55f399 + "\n*Time Zone:* " + _0x3e1f80 + "\n\nBelow is the Message deleted by @" + _0x30c15a,
+            'text': "*⚡ANTI_DELETE⚡*\n\n*Date of Deletion:* " + _0xb08499 + "\n*Time of Deletion:* " + _0x55f399 + "\n*Time Zone:* " + _0x3e1f80 + "\n\nBelow is the Message deleted by @" + _0x30c15a,
             'mentions': [_0x19921d]
           });
           await _0x252f2e.sendMessage(_0x16dfec, {
