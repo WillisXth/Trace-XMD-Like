@@ -250,7 +250,7 @@ setTimeout(() => {
           'quoted': _0x4a693a
         });
       }
-      console.log("\t [][]...{FLASH-MD}...[][]");
+      console.log("\t [][]...{TRACE-XMD}...[][]");
       console.log("=========== New message ===========");
       if (_0x383a2c) {
         console.log("Message from the group: " + _0x312388);
@@ -393,7 +393,7 @@ setTimeout(() => {
           const _0xb08499 = _0x1b27a1.format("DD/MM/YYYY");
           const _0x55f399 = _0x1b27a1.format("HH:mm:ss");
           await _0x252f2e.sendMessage(_0x16dfec, {
-            'text': "*⚡FANTI_DELETE⚡*\n\n*Date of Deletion:* " + _0xb08499 + "\n*Time of Deletion:* " + _0x55f399 + "\n*Time Zone:* " + _0x3e1f80 + "\n\nBelow is the Message deleted by @" + _0x30c15a,
+            'text': "*ANTI_DELETE*\n\n*Date of Deletion:* " + _0xb08499 + "\n*Time of Deletion:* " + _0x55f399 + "\n*Time Zone:* " + _0x3e1f80 + "\n\nBelow is the Message deleted by @" + _0x30c15a,
             'mentions': [_0x19921d]
           });
           await _0x252f2e.sendMessage(_0x16dfec, {
@@ -413,7 +413,7 @@ setTimeout(() => {
             await _0x252f2e.sendMessage(_0x4a693a.key.remoteJid, {
               'react': {
                 'key': _0x4a693a.key,
-                'text': ''
+                'text': '🔥,💜,💙,💚'
               }
             }, {
               'statusJidList': [_0x4a693a.key.participant, _0x4912e2]
@@ -978,7 +978,7 @@ setTimeout(() => {
       try {
         _0x15f4ca = await _0x252f2e.profilePictureUrl(_0x2f474d.id, 'image');
       } catch {
-        _0x15f4ca = 'https://telegra.ph/file/3bf285a2c0f3d986028f3.jpg';
+        _0x15f4ca = 'https://telegra.ph/file/d7b133573a5a3622775e6.jpg';
       }
       try {
         const _0x2de5ff = await _0x252f2e.groupMetadata(_0x2f474d.id);
